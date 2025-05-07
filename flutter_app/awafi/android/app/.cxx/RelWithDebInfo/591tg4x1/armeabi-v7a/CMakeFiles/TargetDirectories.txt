@@ -1,0 +1,2 @@
+/Users/innovitegrasolutions/Awafi/flutter_app/awafi/android/app/.cxx/RelWithDebInfo/591tg4x1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/innovitegrasolutions/Awafi/flutter_app/awafi/android/app/.cxx/RelWithDebInfo/591tg4x1/armeabi-v7a/CMakeFiles/rebuild_cache.dir

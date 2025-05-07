@@ -1,0 +1,1 @@
+/Users/innovitegrasolutions/Awafi/flutter_app/awafi/build/app/intermediates/cxx/RelWithDebInfo/591tg4x1/obj/armeabi-v7a

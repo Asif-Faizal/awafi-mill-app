@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293061331375",
+    "project_id": "awafi-c8012",
+    "storage_bucket": "awafi-c8012.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293061331375:android:452711139b88400464875a",
+        "android_client_info": {
+          "package_name": "com.awafi.awafimillapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUrh5vi92qD94ZJy33VwJbnRtdH-zB1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
